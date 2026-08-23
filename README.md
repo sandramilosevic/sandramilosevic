@@ -1,14 +1,14 @@
 <div align="center">
 
-<samp style="font-family:'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif; font-size:16px; letter-spacing:0.08em;">
-  <b>SANDRA MILOŠEVIĆ</b>
-</samp>
+<h3 align="center" style="font-family:'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif; letter-spacing:0.08em;">
+  SANDRA MILOŠEVIĆ
+</h3>
 
 <br>
 <br>
 
 <a href="https://linkedin.com/in/sandramilosevicc">
-  <img src="https://img.shields.io/badge/LINKEDIN-FF2D95?style=flat-square&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF2D95&labelColor=0D0D0D" />
 </a>
 
 </div>
