@@ -1,16 +1,64 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**sandramilosevic/sandramilosevic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:FF2D95&height=4&width=100%25" />
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<samp><b>SANDRA MILOŠEVIĆ</b></samp>
+
+<samp>Backend Engineer · QA Automation · Data</samp>
+
+<br><br>
+
+<a href="https://linkedin.com/in/sandramilosevicc">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF2D95" />
+</a>
+
+</div>
+
+<br>
+
+### `01` — STACK
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF2D95)
+![Django](https://img.shields.io/badge/Django-0D0D0D?style=for-the-badge&logo=django&logoColor=FF2D95)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D0D0D?style=for-the-badge&logo=javascript&logoColor=FF2D95)
+![HTML5](https://img.shields.io/badge/HTML5-0D0D0D?style=for-the-badge&logo=html5&logoColor=FF2D95)
+![CSS3](https://img.shields.io/badge/CSS3-0D0D0D?style=for-the-badge&logo=css3&logoColor=FF2D95)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF2D95)
+![MySQL](https://img.shields.io/badge/MySQL-0D0D0D?style=for-the-badge&logo=mysql&logoColor=FF2D95)
+![Redis](https://img.shields.io/badge/Redis-0D0D0D?style=for-the-badge&logo=redis&logoColor=FF2D95)
+
+![Docker](https://img.shields.io/badge/Docker-0D0D0D?style=for-the-badge&logo=docker&logoColor=FF2D95)
+![Nginx](https://img.shields.io/badge/Nginx-0D0D0D?style=for-the-badge&logo=nginx&logoColor=FF2D95)
+![Git](https://img.shields.io/badge/Git-0D0D0D?style=for-the-badge&logo=git&logoColor=FF2D95)
+
+![Selenium](https://img.shields.io/badge/Selenium-0D0D0D?style=for-the-badge&logo=selenium&logoColor=FF2D95)
+![Cypress](https://img.shields.io/badge/Cypress-0D0D0D?style=for-the-badge&logo=cypress&logoColor=FF2D95)
+![Postman](https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=FF2D95)
+
+![Pandas](https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=FF2D95)
+![scikit--learn](https://img.shields.io/badge/scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=FF2D95)
+
+</div>
+
+<br>
+
+### `02` — ACTIVITY
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandramilosevic&show_icons=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FF2D95&text_color=FFFFFF&icon_color=FF2D95&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF2D95,100:0D0D0D&height=4&width=100%25" />
+
+</div>
