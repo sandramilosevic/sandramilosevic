@@ -29,9 +29,9 @@
 
 <div align="center">
 
-<a href="https://github.com/sandramilosevicc">
+<a href="https://github.com/sandramilosevic">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=sandramilosevicc&bg_color=0D0D0D&color=FF2D95&line=FF2D95&point=FF2D95&area=true&hide_border=true"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sandramilosevic&bg_color=0D0D0D&color=FF2D95&line=FF2D95&point=FF2D95&area=true&hide_border=true"
     width="100%"
   />
 </a>
