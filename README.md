@@ -3,10 +3,7 @@
 <h3 align="center" style="font-family:'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif; letter-spacing:0.08em;">
   SANDRA MILOŠEVIĆ
 </h3>
-
 <br>
-<br>
-
 <a href="https://linkedin.com/in/sandramilosevicc">
   <img src="https://img.shields.io/badge/LINKEDIN-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF2D95&labelColor=0D0D0D" />
 </a>
