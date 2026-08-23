@@ -30,10 +30,9 @@
 <div align="center">
 
 <img
-  src="https://gh-heat.anishroy.com/api/sandramilosevic/svg?colors=161616,4A0D2D,8F1853,C92270,FF2D95&bg=0D0D0D&textColor=D0D0D0&showMonthLabels=true&showDayLabels=true&showLegend=true&shape=square&radius=2&cellSize=11&cellGap=2&borderWidth=0"
+  src="https://gh-heat.anishroy.com/api/sandramilosevic/svg?colors=161616,761444,B51D67,E52B83,FF4AA2&bg=0D0D0D&textColor=D0D0D0&showMonthLabels=true&showDayLabels=true&showLegend=true&shape=square&radius=2&cellSize=13&cellGap=2&borderWidth=0"
   width="100%"
   alt="GitHub contribution activity"
 />
-
 </div>
 </div>
