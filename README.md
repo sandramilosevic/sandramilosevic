@@ -8,9 +8,7 @@
 <br>
 
 <a href="https://linkedin.com/in/sandramilosevicc">
-  <samp style="font-family:'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif; color:#FF2D95; font-size:12px; letter-spacing:0.12em;">
-    LINKEDIN ↗
-  </samp>
+  <img src="https://img.shields.io/badge/LINKEDIN-FF2D95?style=flat-square&logo=linkedin&logoColor=0D0D0D&labelColor=0D0D0D" />
 </a>
 
 </div>
