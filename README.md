@@ -35,18 +35,3 @@
   <img src="https://img.shields.io/badge/scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=FF2D95" />
 </div>
 
-<br>
-
-<h3 align="center" style="font-family:'Space Grotesk','Helvetica Neue',Helvetica,Arial,sans-serif; letter-spacing:0.08em;">
-  ACTIVITY
-</h3>
-
-<div align="center">
-  <img
-    src="https://gh-heat.anishroy.com/api/sandramilosevic/svg?colors=0D0D0D,9C1458,E32678,FF2D95,FF2D95&bg=0D0D0D&textColor=D0D0D0&showMonthLabels=true&showDayLabels=true&showLegend=true&shape=square&radius=1&cellSize=4&cellGap=1&borderWidth=0"
-    width="100%"
-    alt="GitHub contribution activity"
-  />
-</div>
-</div>
-
