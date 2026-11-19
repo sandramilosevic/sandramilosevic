@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/Cypress-0D0D0D?style=for-the-badge&logo=cypress&logoColor=FF2D95" />
   <img src="https://img.shields.io/badge/Postman-0D0D0D?style=for-the-badge&logo=postman&logoColor=FF2D95" />
   <img src="https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=FF2D95" />
+  <img src="https://img.shields.io/badge/Playwright-0D0D0D?style=for-the-badge&logo=pandas&logoColor=FF2D95" />
   <img src="https://img.shields.io/badge/scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=FF2D95" />
 </div>
 
